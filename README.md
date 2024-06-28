@@ -1,1 +1,1 @@
-# oasis-first-task
+# internship projects
